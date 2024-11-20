@@ -20,8 +20,8 @@ Compare the newly improved policy with the old policy. If the policy does not ch
 Once the policy has converged, return the final value function 𝑉 V and the optimal policy pi.
 
 ## POLICY IMPROVEMENT FUNCTION
-### Name : SANJAY 
-### Register Number : 212222230132
+### Name : praveen ck
+### Register Number : 212222243003
 ```
 def policy_improvement(V,P,gamma=1.0):
   Q=np.zeros((len(P),len(P[0])),dtype=np.float64)
